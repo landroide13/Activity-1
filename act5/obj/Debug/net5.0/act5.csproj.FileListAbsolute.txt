@@ -1,0 +1,15 @@
+/Users/landrade/Desktop/Whitecleffe/EvenDrivenDev/Activities/act5/bin/Debug/net5.0/act5.deps.json
+/Users/landrade/Desktop/Whitecleffe/EvenDrivenDev/Activities/act5/bin/Debug/net5.0/act5.runtimeconfig.json
+/Users/landrade/Desktop/Whitecleffe/EvenDrivenDev/Activities/act5/bin/Debug/net5.0/act5.runtimeconfig.dev.json
+/Users/landrade/Desktop/Whitecleffe/EvenDrivenDev/Activities/act5/bin/Debug/net5.0/act5.dll
+/Users/landrade/Desktop/Whitecleffe/EvenDrivenDev/Activities/act5/bin/Debug/net5.0/ref/act5.dll
+/Users/landrade/Desktop/Whitecleffe/EvenDrivenDev/Activities/act5/bin/Debug/net5.0/act5.pdb
+/Users/landrade/Desktop/Whitecleffe/EvenDrivenDev/Activities/act5/obj/Debug/net5.0/act5.csproj.AssemblyReference.cache
+/Users/landrade/Desktop/Whitecleffe/EvenDrivenDev/Activities/act5/obj/Debug/net5.0/act5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/landrade/Desktop/Whitecleffe/EvenDrivenDev/Activities/act5/obj/Debug/net5.0/act5.AssemblyInfoInputs.cache
+/Users/landrade/Desktop/Whitecleffe/EvenDrivenDev/Activities/act5/obj/Debug/net5.0/act5.AssemblyInfo.cs
+/Users/landrade/Desktop/Whitecleffe/EvenDrivenDev/Activities/act5/obj/Debug/net5.0/act5.csproj.CoreCompileInputs.cache
+/Users/landrade/Desktop/Whitecleffe/EvenDrivenDev/Activities/act5/obj/Debug/net5.0/act5.dll
+/Users/landrade/Desktop/Whitecleffe/EvenDrivenDev/Activities/act5/obj/Debug/net5.0/ref/act5.dll
+/Users/landrade/Desktop/Whitecleffe/EvenDrivenDev/Activities/act5/obj/Debug/net5.0/act5.pdb
+/Users/landrade/Desktop/Whitecleffe/EvenDrivenDev/Activities/act5/obj/Debug/net5.0/act5.genruntimeconfig.cache
