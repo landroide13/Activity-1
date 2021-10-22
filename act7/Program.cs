@@ -14,6 +14,11 @@ namespace act7
         {
             return (rad * rad) * 3.14;
         }
+
+        static double volumen(int rad)
+        {
+            return (rad * rad * rad);
+        }
         static void Main(string[] args)
         {
             Console.WriteLine("######## Circle App #########");
@@ -23,6 +28,7 @@ namespace act7
 
             Console.WriteLine("The Area is: " + area(radius));
             Console.WriteLine("The Perimeter is: " + perimeter(radius));
+            Console.WriteLine("The Volumen is: " + volumen(radius));
         }
     }
 }
