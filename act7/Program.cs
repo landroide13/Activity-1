@@ -17,7 +17,7 @@ namespace act7
         static void Main(string[] args)
         {
             Console.WriteLine("######## Circle App #########");
-            Console.WriteLine("######## Please add the radius: ");
+            Console.WriteLine("##### Please add the radius: ");
 
             int radius = Convert.ToInt32(Console.ReadLine());
 
